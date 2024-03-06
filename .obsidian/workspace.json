@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "6cc44c20b5a6bc5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bijbelse referenties.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3c7847f74ea4546c",
             "type": "leaf",
             "state": {
@@ -100,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -129,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Boek",
+                "query": "tag:#stroming",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -225,14 +213,14 @@
   },
   "active": "260205e75e6ae5ee",
   "lastOpenFiles": [
+    "Goed tegen kwaad.md",
     "Boeken/De engelenmaker.md",
     "Boeken/Ivanov.md",
-    "Bijbelse referenties.md",
-    "Naturalisme.md",
-    "Zwarte romantiek.md",
-    "Untitled.canvas",
-    "Goed tegen kwaad.md",
     "Getallensymboliek.md",
+    "Bijbelse referenties.md",
+    "Zwarte romantiek.md",
+    "Naturalisme.md",
+    "Untitled.canvas",
     "Boeken",
     "2024-03-05.md"
   ]

@@ -1,5 +1,7 @@
 #Boek
 ****
+[[Getallensymboliek]]
+
 **Tijd plaats ruimte**
 
 Wolfheim (de mens is een wolf voor de mens)
@@ -19,6 +21,8 @@ Stroming
 [[Naturalisme]]
 Elementen
 [[Zwarte romantiek]]
+
+
 
 
 **Titel**
