@@ -5,7 +5,7 @@ voor een zoektocht naar menselijkheid die felix meemaakt.
 
 
 **Oposities**
-[[Goed tegen kwaad]]
+[[Goed tegen kwaad#Ivanov]]
 
 Oppositie tussen mens en dier,
 	Hiermee wordt een hierarchy benadrukt. Vaak worden dingen in het boek ook vergeleken met dieren om hun machtspositie aan te tonen: "lois verandert in een kwetsbaar vogeltje" Dit geeft symbolisme voor machtsverhoudingen.
@@ -13,11 +13,7 @@ Oppositie tussen mens en dier,
 
 
 **Vertelperspectief**
-Het perspectief is vanuit felix en dat geeft veel invloed op het verhaal.
-Hij heeft een machtspositie als verteller en laat hiermee ook dingen weg en presenteert zichzelf op een bepaalde manier. hij zegt soms ook dat hij dingen niet verteld aan de lezer.
-
-Dit perspectief geeft twijfels in betrouwbaarheid
-	Aan de ene hand lijkt felix betrouwbaarder omdat hij noemt dat hij dingen niet verteld maar creeert ook twijfels omdat hij aangeeft dat hij bewust stuurt en framed.
+[[Achteraf verteller#Ivanov]]
 
 
 
@@ -26,4 +22,4 @@ Lois ziet de machthebbende partijen als het kwade, zoals de NYU met seksime dat 
 
 
 Stroming
-[[Zwarte romantiek]]
+[[Zwarte romantiek#]]

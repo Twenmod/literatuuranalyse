@@ -1,6 +1,6 @@
 #stroming
 ****
-[[De engelenmaker]]
+# [[De engelenmaker]]
 
 Engelenmaker heeft elementen van een zwarte romantiek,
 
@@ -14,7 +14,7 @@ Duistere elementen
 
 
 
-[[Ivanov]]
+# [[Ivanov]]
 valt engiszinds onder een zwarte romantiek
 Vanwege de morele dillemas en de nadruk op complexiteit van menselijke relaties.
 En een zoektocht naar betekenis

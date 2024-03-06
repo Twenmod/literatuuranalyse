@@ -8,62 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3f707b036fb9c5fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Boeken/De engelenmaker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c7847f74ea4546c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Boeken/De engelenmaker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea2e26648efcdf74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Boeken/Ivanov.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3d9d22ef8dd7a38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Boeken/De engelenmaker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "260205e75e6ae5ee",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "67afd0d5d0a70731",
             "type": "leaf",
             "state": {
@@ -76,19 +20,15 @@
             }
           },
           {
-            "id": "29fab4a6abbc23b7",
+            "id": "1cabdea75efa461c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Naturalisme.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#stroming",
+                "query": "tag:#Boek",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,11 +135,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,16 +152,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "260205e75e6ae5ee",
+  "active": "1cabdea75efa461c",
   "lastOpenFiles": [
-    "Goed tegen kwaad.md",
-    "Boeken/De engelenmaker.md",
-    "Boeken/Ivanov.md",
     "Getallensymboliek.md",
-    "Bijbelse referenties.md",
+    "Prometheus.md",
+    "Boeken/De engelenmaker.md",
+    "Achteraf verteller.md",
+    "Boeken/Ivanov.md",
+    "Untitled.canvas",
+    "Goed tegen kwaad.md",
     "Zwarte romantiek.md",
     "Naturalisme.md",
-    "Untitled.canvas",
+    "[[De engelenmaker]].md",
+    "Bijbelse referenties.md",
     "Boeken",
     "2024-03-05.md"
   ]

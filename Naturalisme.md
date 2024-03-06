@@ -1,6 +1,6 @@
 #stroming
 ****
-[[De engelenmaker]]
+# [[De engelenmaker]]
 Determinisme
 Invloed erfelijkheid het gaat om klonen
 

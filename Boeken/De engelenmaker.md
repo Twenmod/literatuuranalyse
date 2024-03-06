@@ -1,6 +1,6 @@
 #Boek
 ****
-[[Getallensymboliek]]
+[[Getallensymboliek#De engelenmaker]]]
 
 **Tijd plaats ruimte**
 
@@ -8,7 +8,7 @@ Wolfheim (de mens is een wolf voor de mens)
 	zegt over het kwaad in de mens wat een thema is in het boek
 
 **Motieven**
-[[Goed tegen kwaad]]
+[[Goed tegen kwaad#De engelenmaker]]
 Dood en leven
 
 **Thematiek**
@@ -18,16 +18,29 @@ Schuldgevoel / Boetedoening
 **Stroming**
 
 Stroming
-[[Naturalisme]]
+[[Naturalisme#De engelenmaker]]
 Elementen
-[[Zwarte romantiek]]
+[[Zwarte romantiek#De engelenmaker]]
 
+**Verteller**
+[[Achteraf verteller#De_engelenmaker]]
 
+**Vertraging**
+Soms wordt de verteltijd ten opzichte van de vertelde tijd vertraagd,
+zoals het schoolreisje met de kinderen die uitgebreid beschreven wordt.
 
+Ook tussen de delen zit veel verandering in vertelteid zo zijn deel 1 en 3, 4 en 1.5 jaar terwijl deel 2 40 jaar is, en daarin ook een andere functie heeft als verklaring van hoppes karakter. 
 
 **Titel**
 Victor wilt nieuw leven scheppen en wilt met zijn goede daden een volmaakt mens scheppen via wedergeboorte, die zo een eeuwig leven kan hebben. Zo maakt hij een wezen van hogere orde een "engel" en is hij de engelenmaker.
 Dit zie je terug in de naamkeuze van zijn zonen(clonen) die zijn vernoemd naar aartsengelen 
+
+
+**Intertekstualiteit**
+[[Prometheus#De engelenmaker]]
+
+
+
 
 **samenvatting**
 
