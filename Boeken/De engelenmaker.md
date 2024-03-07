@@ -1,6 +1,6 @@
 #Boek
 ****
-[[Getallensymboliek#De engelenmaker]]]
+[[Getallensymboliek#De engelenmaker]]
 
 **Tijd plaats ruimte**
 

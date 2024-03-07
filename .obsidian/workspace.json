@@ -15,6 +15,7 @@
               "state": {
                 "file": "Boeken/De engelenmaker.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -94,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Boeken/De engelenmaker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Boeken/De engelenmaker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Boeken/De engelenmaker.md"
+              }
             }
           }
         ],
@@ -154,15 +159,15 @@
   },
   "active": "1cabdea75efa461c",
   "lastOpenFiles": [
-    "Getallensymboliek.md",
-    "Prometheus.md",
     "Boeken/De engelenmaker.md",
     "Achteraf verteller.md",
-    "Boeken/Ivanov.md",
-    "Untitled.canvas",
-    "Goed tegen kwaad.md",
     "Zwarte romantiek.md",
     "Naturalisme.md",
+    "Goed tegen kwaad.md",
+    "Getallensymboliek.md",
+    "Prometheus.md",
+    "Boeken/Ivanov.md",
+    "Untitled.canvas",
     "[[De engelenmaker]].md",
     "Bijbelse referenties.md",
     "Boeken",
