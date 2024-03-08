@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Boeken/De engelenmaker.md",
+                "file": "Nederlands/Boeken/De engelenmaker.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -24,12 +24,56 @@
             "id": "1cabdea75efa461c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Nederlands/Zwarte romantiek.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a1b99101d9effb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engels/Boeken/The hobbit.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f77fd17c3519dbe1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engels/Boeken/The hobbit.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d5721fcdc96cc8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engels/Boeken/The hobbit.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -95,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boeken/De engelenmaker.md",
+                "file": "Engels/Boeken/The hobbit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Boeken/De engelenmaker.md",
+                "file": "Engels/Boeken/The hobbit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Boeken/De engelenmaker.md"
+                "file": "Engels/Boeken/The hobbit.md"
               }
             }
           }
@@ -157,20 +201,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1cabdea75efa461c",
+  "active": "3d5721fcdc96cc8a",
   "lastOpenFiles": [
-    "Boeken/De engelenmaker.md",
-    "Achteraf verteller.md",
-    "Zwarte romantiek.md",
-    "Naturalisme.md",
-    "Goed tegen kwaad.md",
-    "Getallensymboliek.md",
-    "Prometheus.md",
-    "Boeken/Ivanov.md",
+    "Engels/Medieval Romance.md",
+    "Engels/Greed.md",
+    "Engels/Boeken/The hobbit.md",
+    "Engels/Boeken",
+    "README.md",
+    "Engels/Welcome.md",
+    "Nederlands/Prometheus.md",
+    "Nederlands/Zwarte romantiek.md",
+    "Nederlands",
+    "Engels",
+    "Nederlands/Boeken/De engelenmaker.md",
+    "Nederlands/Achteraf verteller.md",
+    "Nederlands/Naturalisme.md",
+    "Nederlands/Goed tegen kwaad.md",
+    "Nederlands/Getallensymboliek.md",
+    "Nederlands/Boeken/Ivanov.md",
     "Untitled.canvas",
     "[[De engelenmaker]].md",
     "Bijbelse referenties.md",
-    "Boeken",
+    "Nederlands/Boeken",
     "2024-03-05.md"
   ]
 }
