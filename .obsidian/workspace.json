@@ -4,76 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "758a2497dc94df69",
+        "id": "30a1a5b373f3d592",
         "type": "tabs",
         "children": [
           {
-            "id": "67afd0d5d0a70731",
+            "id": "58ee3f039bd96ee4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nederlands/Boeken/De engelenmaker.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1cabdea75efa461c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nederlands/Zwarte romantiek.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a1b99101d9effb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engels/Boeken/The hobbit.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f77fd17c3519dbe1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engels/Boeken/The hobbit.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d5721fcdc96cc8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engels/Boeken/The hobbit.md",
+                "file": "Engels/Boeken/Ready player one.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engels/Boeken/The hobbit.md",
+                "file": "Engels/Boeken/Ready player one.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engels/Boeken/The hobbit.md",
+                "file": "Engels/Boeken/Ready player one.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engels/Boeken/The hobbit.md"
+                "file": "Engels/Boeken/Ready player one.md"
               }
             }
           }
@@ -201,28 +148,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d5721fcdc96cc8a",
+  "active": "58ee3f039bd96ee4",
   "lastOpenFiles": [
-    "Engels/Medieval Romance.md",
-    "Engels/Greed.md",
-    "Engels/Boeken/The hobbit.md",
-    "Engels/Boeken",
-    "README.md",
-    "Engels/Welcome.md",
-    "Nederlands/Prometheus.md",
-    "Nederlands/Zwarte romantiek.md",
-    "Nederlands",
-    "Engels",
     "Nederlands/Boeken/De engelenmaker.md",
-    "Nederlands/Achteraf verteller.md",
-    "Nederlands/Naturalisme.md",
     "Nederlands/Goed tegen kwaad.md",
-    "Nederlands/Getallensymboliek.md",
+    "Engels/Greed.md",
+    "Nederlands/Zwarte romantiek.md",
+    "Nederlands/Boeken/Hex.md",
+    "Engels/Boeken/Ready player one.md",
     "Nederlands/Boeken/Ivanov.md",
+    "Engels/Boeken/ioadoundawondaw.md",
+    "Engels/Boeken/The hobbit.md",
+    "Nederlands/Prometheus.md",
+    "Nederlands/Naturalisme.md",
+    "Nederlands/Getallensymboliek.md",
+    "Nederlands/Boeken",
+    "Nederlands/Achteraf verteller.md",
+    "Nederlands",
+    "Engels/Medieval Romance.md",
+    "Engels/Boeken",
+    "Engels",
+    "Achteraf verteller.md",
+    "Boeken/De engelenmaker.md",
+    "Boeken/Ivanov.md",
+    "Zwarte romantiek.md",
+    "Naturalisme.md",
+    "Goed tegen kwaad.md",
+    "Getallensymboliek.md",
+    "Prometheus.md",
     "Untitled.canvas",
     "[[De engelenmaker]].md",
     "Bijbelse referenties.md",
-    "Nederlands/Boeken",
+    "Boeken",
     "2024-03-05.md"
   ]
 }

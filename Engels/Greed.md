@@ -5,3 +5,6 @@ Bilbo who does not agree to adventure but agrees to the treasure of gold.
 Of course smaug the embodiment of greed never leaving the treasure.
 
 And how greed corrupts people as in thorin who gets corrupted by the treasure of the mountain
+
+# [[Ready player one]]
+Ready player one shows the theme of corperate greed
