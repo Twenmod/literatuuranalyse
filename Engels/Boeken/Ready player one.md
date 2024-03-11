@@ -1,7 +1,11 @@
 #Boek 
 ****
 
+[[Greed and power of corporations#Ready player one]]
 
+
+Escapism,
+Of course the oasis is a form of escapism but even in the oasis people try to escape to the past, the gunters obsession with the 80s
 
 **Wade wats**
 

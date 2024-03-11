@@ -20,6 +20,20 @@
         "a": 1,
         "rgb": 8418395
       }
+    },
+    {
+      "query": "file:README",
+      "color": {
+        "a": 1,
+        "rgb": 3026478
+      }
+    },
+    {
+      "query": "path:/",
+      "color": {
+        "a": 1,
+        "rgb": 9682391
+      }
     }
   ],
   "collapse-display": false,
@@ -28,10 +42,10 @@
   "nodeSizeMultiplier": 1.06979166666667,
   "lineSizeMultiplier": 3.009375,
   "collapse-forces": false,
-  "centerStrength": 0.364583333333333,
-  "repelStrength": 10,
+  "centerStrength": 0.317708333333333,
+  "repelStrength": 10.625,
   "linkStrength": 0.875,
-  "linkDistance": 189,
-  "scale": 0.7061068636372771,
+  "linkDistance": 143,
+  "scale": 0.503648699821761,
   "close": true
 }
